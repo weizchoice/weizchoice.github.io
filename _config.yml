@@ -18,7 +18,7 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Weizchoice # the main title
+title: Weiz Choice # the main title
 
 tagline: Your Compass for Wise Buys # it will display as the sub-title
 
@@ -26,23 +26,23 @@ description: >- # used by seo meta and the atom feed
   Weizchoice is your ultimate guide for making wiser buying decisions in the world of home tools, machines, and gadgets. Our comprehensive reviews and hands-on experiences provide in-depth insights, ensuring you have all the information needed for an informed purchase. From the latest tech gadgets to essential tools for your home, we put products to the test so you don't have to. Start making wiser choices with Weizchoice – your wise buying guide to home gadgets!
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "http://www.weizchoice.com/"
+url: "http://www.weizchoice.com"
 
 github:
-  username: github_username # change to your github username
+  username: weizchoice # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: weizchoice # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Weiz
-  email: # example@domain.com # change to your email address
+  name: Wei
+  # email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username # change to your twitter homepage
-    # - https://github.com/username # change to your github homepage
+    - https://twitter.com/weizchoice # change to your twitter homepage
+    - https://github.com/weizchoice # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
